@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/sasbotix-app/TranslaCore/releases/download/v1.0/TranslaCore.apk">
+  <a href="https://github.com/sasbotix-app/TranslaCore/releases">
     <img src="https://img.shields.io/badge/Download-APK%20Latest%20Version-2196F3?style=for-the-badge&logo=android" alt="Download APK" />
   </a>
   <img src="https://img.shields.io/badge/Platform-Android_7.0+-4CAF50?style=for-the-badge&logo=android" alt="Platform" />
