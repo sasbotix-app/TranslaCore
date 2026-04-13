@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sasbotix-app.github.io/TranslaCore/sitemap.xml
