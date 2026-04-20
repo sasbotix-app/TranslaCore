@@ -2,10 +2,10 @@
   <img src="https://github.com/user-attachments/assets/dd4de3aa-dccf-4462-a46a-b27e88f2cee7" alt="TranslaCore Universal Translator Logo" width="200"/>
 </p>
 
-<h1 align="center">🌐 TranslaCore Pro: The Ultimate Universal File & Document Translator</h1>
+<h1 align="center">🌐 TranslaCore Pro V3.5: The Ultimate AI File & Document Localization Engine</h1>
 
 <p align="center">
-  <strong>The most powerful, fast, and easy-to-use file translation app for EVERYONE. Translate subtitles, documents, web pages, and data files instantly with zero technical skills required!</strong>
+  <strong>The most advanced, blazing-fast, and secure file translation app for Android. Localize subtitles, app resources, code documents, and web pages instantly—while flawlessly preserving the original structure!</strong>
 </p>
 
 <p align="center">
@@ -14,16 +14,16 @@
   </a>
   <img src="https://img.shields.io/badge/Platform-Android_7.0+-4CAF50?style=for-the-badge&logo=android" alt="Platform" />
   <img src="https://img.shields.io/badge/Languages-100%2B_Supported-B388FF?style=for-the-badge&logo=googletranslate" alt="Languages" />
-  <img src="https://img.shields.io/badge/Target-Everyone-FFCA28?style=for-the-badge" alt="Target Audience" />
+  <img src="https://img.shields.io/badge/Formats-XML_|_JSON_|_SRT_|_HTML-FFCA28?style=for-the-badge" alt="Supported Formats" />
 </p>
 
 ---
 
-## 🚀 What is TranslaCore?
+## 🚀 What is TranslaCore Pro?
 
-**TranslaCore** is a groundbreaking universal translation engine built for **everyone**. Whether you are a movie enthusiast wanting to translate subtitle files, a student translating text documents, a professional localizing web pages, or a developer handling complex data formats, TranslaCore does it all with a single tap.
+**TranslaCore Pro** is a cutting-edge universal translation and localization tool designed for productivity. Whether you are a developer localizing an Android app (`strings.xml`, `.json`), a movie enthusiast syncing subtitles (`.srt`), or a professional translating complex documents, TranslaCore handles it effortlessly.
 
-You don't need to be a tech expert. TranslaCore uses advanced AI to automatically detect the text that needs translating while preserving the original layout, timing, and structure of your files perfectly. 
+Powered by highly trained AI contextual models, it deeply scans your files, translates the human-readable text, and strictly shields all structural code, tags, and formatting. 
 
 ---
 
@@ -43,63 +43,69 @@ You don't need to be a tech expert. TranslaCore uses advanced AI to automaticall
 
 ---
 
-## ✨ Why TranslaCore is for Everyone
+## 🔥 New in V3.5 (Massive Update)
 
-### 🍿 Perfect for Movie Lovers & Readers (Subtitles & Text)
-Want to watch a movie but the subtitles are in the wrong language? TranslaCore flawlessly translates **`.srt`** and **`.txt`** files in seconds. It strictly protects the timecodes and formatting, so your subtitles stay perfectly synced with your video.
-
-### 🌐 Ideal for Professionals & Creators (Web & Docs)
-Translate full web pages (**`.html`, `.htm`, `.php`**) or data sheets (**`.csv`**) without breaking the page design or table structures. TranslaCore reads the file, translates only the readable content, and gives you a ready-to-use localized file.
-
-### 💻 Powerful for Developers (Code & Data)
-While it is simple for everyday users, TranslaCore packs a massive punch for developers. It supports deep structural translation for **`.xml`, `.json`, `.yaml`, `.properties`, `.strings`, `.java`, and `.kt`**. It automatically ignores code variables, URLs, and tags, preventing any app crashes.
-
-### 🌍 100+ Global Languages
-Break language barriers instantly. Translate any file from and to over 100 languages with highly accurate, human-like contextual translation models.
-
-### ⚡ Background Batch Processing
-Select 10 files at once, hit "Translate", and minimize the app. TranslaCore works quietly in the background, allowing you to use your phone normally. A notification will pop up as soon as your files are ready.
+* ⚡ **Unmatched Processing Speed:** A completely rewritten core engine for translating large-scale documents and batch files without lag or interruptions.
+* 🎯 **Visual Custom Exclusions UI:** Take absolute control! Easily select specific lines, keys, or text to exclude from translation through a brilliant, searchable visual interface. No more manual typing or complex rules.
+* 🛡️ **Ultra-Accurate Structural Protection:** Upgraded context awareness perfectly secures complex Android resources, placeholders, and deep HTML/JSON nesting during the translation process.
+* 🔋 **Performance Optimized:** Seamless background batch processing with virtually zero battery drain.
 
 ---
 
-## 📥 Download & Install Now
+## ✨ Key Features & Use Cases
 
-Get the application directly to your Android device for free.
+### 💻 For Developers & Programmers (App Localization)
+Stop wasting hours on manual localization. TranslaCore safely translates **`.xml`**, **`.json`**, **`.yaml`**, **`.properties`**, **`.strings`**, **`.java`**, and **`.kt`**. It automatically detects and shields variables, URLs, and code syntax, ensuring your app compiles perfectly without syntax errors.
 
-1. **Download the APK:** Click the download link below.
-2. **Install:** Open the downloaded `TranslaCore.apk`. (You may be prompted to "Allow from this source" in your Android settings).
-3. **Translate:** Open the app, select your files, and enjoy instant translation!
+### 🍿 For Movie Lovers & Content Creators (Subtitles)
+Translate movie subtitles flawlessly. It processes **`.srt`** and **`.txt`** files in seconds, maintaining exact timecodes and formatting so your subtitles sync perfectly with the video.
 
-### [📦 Download TranslaCore Pro v3.5.apk (Latest Version)](https://github.com/sasbotix-app/TranslaCore-pro/releases/download/v3.5/TranslaCore_v3.5.apk)
+### 🌐 For Webmasters & Professionals (Web & Docs)
+Translate full web pages (**`.html`, `.htm`, `.php`**) or data arrays without breaking page layouts or table structures. Get ready-to-publish localized files instantly.
+
+### 🌍 100+ Global Languages Supported
+Break language barriers with highly accurate, native-sounding translations for over 100 languages.
+
+---
+
+## 📥 Download & Install (Free APK)
+
+Get the ultimate translation studio directly on your Android device.
+
+1. **Download:** Click the link below to get the latest APK.
+2. **Install:** Open `TranslaCore_v3.5.apk` (ensure "Install from unknown sources" is enabled in your settings).
+3. **Launch:** Select your files and experience next-gen localization.
+
+### [📦 Download TranslaCore Pro v3.5.apk (Official Release)](https://github.com/sasbotix-app/TranslaCore-pro/releases/download/v3.5/TranslaCore_v3.5.apk)
 
 ---
 
 ## 🕹️ How It Works (3 Simple Steps)
 
-1. **Select File(s):** Tap "File Lab" and pick any supported file from your phone.
-2. **Choose Language:** Pick your desired output language(s).
-3. **Hit Translate:** The app does the heavy lifting. Once done, tap **Export**, and your perfectly translated files will be neatly saved in your `Documents/TranslaCore` folder.
+1. 📂 **Select Files:** Open the "File Lab" and pick single or multiple supported files.
+2. 🌐 **Choose Languages:** Select one or multiple target output languages.
+3. 🚀 **Translate & Export:** Hit translate, let the app run quietly in the background, and export your perfectly organized localized files directly to your device.
 
 ---
 
-## 💎 VIP Experience
+## 💎 VIP Power-User Experience
 
-TranslaCore is free and incredibly powerful, but for users who need to process massive amounts of data daily, we offer a **VIP Upgrade**:
-* **Ad-Free Experience:** No interruptions.
-* **Bulk Processing Limits Removed:** Translate huge batches of files across multiple languages at the exact same time.
-* *Upgrade seamlessly from within the App's Account Settings.*
-
----
-
-## 🔒 100% Secure & Private
-
-Your privacy is our priority. TranslaCore only requests permission to read the files you select and to save the translated files back to your storage. All processing is heavily encrypted, ensuring your personal documents, scripts, and codes are never exposed or stored.
+While TranslaCore is incredibly powerful for everyday use, heavy-duty users can upgrade to **VIP** directly within the app for:
+* **Zero Limits:** Bulk-translate massive batches of files simultaneously.
+* **Premium Server Priority:** Uninterrupted, hyper-speed processing for gigantic documents.
+* **Ad-Free Interface:** Pure, distraction-free productivity.
 
 ---
 
-## 📞 Contact & Support
+## 🔒 Uncompromising Privacy & Security
 
-Have questions, suggestions, or need business support? We are always here to help.
+Your data remains yours. TranslaCore operates with strict privacy standards. We only process the files you explicitly select, and translated results are saved directly back to your local storage. We do not store, share, or analyze your personal documents or proprietary code.
+
+---
+
+## 📞 Support & Community
+
+Encountered a bug? Have a feature request? We'd love to hear from you.
 
 📧 **Email:** translacorepro@gmail.com  
 🌐 **Developed by:** SasBotix  
@@ -107,5 +113,5 @@ Have questions, suggestions, or need business support? We are always here to hel
 ---
 <p align="center">
   <i>© 2026 SasBotix Universal Translator. All rights reserved.</i><br>
-  <i>Empowering global communication for everyone.</i>
+  <i>Empowering global localization for developers and creators.</i>
 </p>
